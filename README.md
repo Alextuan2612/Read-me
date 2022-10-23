@@ -1,0 +1,2 @@
+#Giới thiệu về mình ```python * Em tên là Nguyễn Công Tuấn * Năm nay, em 15 tuổi * Học tại trường quốc tế Mỹ ``` 
+Markup : <details> <summary>Sở thích của mình</summary> 1. Đá Bóng 2. Coi youtube 3. Chơi game </details> #Game
